@@ -11,7 +11,7 @@ System.out.println("I am a child class");
 		// TODO Auto-generated method stub
 SuperEg1 obj=new SuperEg2();
 obj.display1();
-obj.display();
+
 	}
 
 }

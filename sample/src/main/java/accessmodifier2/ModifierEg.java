@@ -8,8 +8,8 @@ public class ModifierEg {
 		// TODO Auto-generated method stub
 Modifier obj3=new Modifier();
 obj3.display1();
-obj3.display3();
-obj3.display4();
+//obj3.display3();
+//obj3.display4();
 	}
 
 }
