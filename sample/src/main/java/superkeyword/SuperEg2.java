@@ -9,7 +9,8 @@ System.out.println("I am a child class");
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-SuperEg1 obj=new SuperEg2();
+SuperEg2 obj=new SuperEg2();
+obj.display();
 obj.display1();
 
 	}
